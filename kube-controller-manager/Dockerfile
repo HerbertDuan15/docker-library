@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kube-controller-manager:v1.19.0-rc.1
+FROM gcr.io/google-containers/kube-controller-manager-arm64:v1.19.0-rc.1
